@@ -64,8 +64,8 @@ Como los datos por pertenecer a un tercero no puedo hacerlos públicos, serán c
 pip install -r requirements.txt
 ```
 
-## Abrir con Visual Studio Code u otro programa el archivo:
+## Open with Visual Studio Code or another program this file:
 proyecto_final_cdcf.ipynb
 
-## Datos y query SQL
+## Data and SQL query
 Because data belongs to a third party I can't make it public, it will be shared with the teachers privately, and then a randomly created version will be made to be shared in this repository.
