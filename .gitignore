@@ -160,5 +160,12 @@ cython_debug/
 #.idea/
 
 # Custom files for cf-datascience-final-project
-data/*.csv
+data/DataSet.csv
+data/DataSet_2018.csv
+data/DataSet_2019.csv
+data/DataSet_2020.csv
+data/DataSet_2021.csv
+data/DataSet_2022.csv
+data/DataSet_2023.csv
+data/DataSetCleaned.csv
 sql/bigquery.sql
