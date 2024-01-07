@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gsmx64/cf-datascience-final-project/HEAD?urlpath=lab)
+***
+
 # Proyecto Final para el Bootcamp de Ciencia de Datos 3a. Generación (CodigoFacilito.com)
 
 
