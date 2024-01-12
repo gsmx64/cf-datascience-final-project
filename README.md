@@ -6,7 +6,7 @@
 
 ## Crear entorno de desarrollo
 
-### Linix / Mac
+### Linux / Mac
 ```
 >>> python3 -m venv env
 ```
